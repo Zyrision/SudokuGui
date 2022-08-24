@@ -1,0 +1,17 @@
+#body{
+    -fx-font-size: 20pt;
+}
+
+#welcomeText{
+    -fx-font-size: 15pt;
+    -fx-pref-height: 70px;
+}
+
+.text-field{
+    -fx-border-color: black;
+    -fx-border-width: .5px;
+    -fx-background-color: white;
+    -fx-pref-width: 75px;
+    -fx-pref-height: 75px;
+    -fx-text-fill: Darkred;
+}
